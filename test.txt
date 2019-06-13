@@ -4,3 +4,4 @@ add a third line
 add a forth line
 add a fifth line
 add a sixth line
+git lecture`:wQ
